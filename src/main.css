@@ -1,0 +1,36 @@
+.Red {
+  border: 1px solid red;
+  background-color: red;
+  /* text-align: center; */
+  padding: 50px;
+  position: absolute;
+  left: 965px;
+  top: 300px;
+  z-index: -2;
+  padding-top: 120px;
+  opacity: 0.6;
+}
+.Green {
+  border: 1px solid green;
+  background-color: green;
+  padding: 50px;
+  position: absolute;
+  left: 965px;
+  top: 300px;
+  z-index: -2;
+  padding-top: 120px;
+  opacity: 0.6;
+}
+.hello {
+  margin-left: 900px;
+  margin-top: 200px;
+}
+button {
+  margin-left: 940px;
+  margin-top: 145px;
+}
+.para {
+  text-align: center;
+  font-size: large;
+  padding-left: 100px;
+}
